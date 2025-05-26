@@ -1,6 +1,6 @@
 
 import Variant from "./Variant";
-import Calc from "./Calc";
+import Calc from "./Calcu";
 export default function App1() {
   let a = 10;
   let b = 20;
