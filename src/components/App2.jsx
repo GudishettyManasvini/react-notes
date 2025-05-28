@@ -9,7 +9,7 @@ export default function App2() {
   return (
     <div>
       <h1>This is App2 component</h1>
-      <div className="App-Product-Container">
+      <div className="App-Product-Container">        
         {products.map((value) => (
           <Product value={value}  />
         ))}
