@@ -18,7 +18,7 @@ export default function App16() {
   }
   return (
     <div>
-      <h1 style={{ color: "#d86c7a" }}>App16</h1>
+      <h1 style={{ color: "black" }}>App16</h1>
       <h2>useRef to store previous value</h2>
       <p>
         <input type="number" onChange={(e) => setNum(e.target.value)} />

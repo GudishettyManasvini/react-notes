@@ -10,7 +10,7 @@ export default function App8() {
   };
   return (
     <div>
-      <h1 style={{color:'#d86c7a'}}>App9</h1>
+      <h1 style={{color:"black"}}>App9</h1>
       <h2>useState Revision</h2>
       <div className="box">
         <button className="btn" onClick={decrement}>

@@ -2,7 +2,7 @@
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
-  background: linear-gradient(to right, #fce3d4, #f8e5e5);
+  background: linear-gradient(to right, #caffbf, #bdb2ff);
   border-radius: 60px;
   width: fit-content;
   margin: 50px auto;
@@ -10,21 +10,24 @@
 }
 
 .heading {
-  color: #d86c7a;
+  color: #5c5470;
   margin-bottom: 10px;
 }
 
 .subheading {
   font-size: 20px;
   margin-bottom: 20px;
+  color: #5c5470;
 }
 
 .inputBox {
   font-size: 18px;
   padding: 8px 12px;
   border-radius: 8px;
-  border: 1px solid #ccc;
+  border: 1px solid #a0c4ff;
   margin-bottom: 40px;
+  background-color: #fff0f6;
+  color: #333;
 }
 
 .box {
@@ -35,12 +38,13 @@
 }
 
 .b1 {
-  background: white;
+  background: linear-gradient(to right, #fdffb6, #ffd6a5);
   padding: 20px;
   border-radius: 20px;
   min-width: 200px;
   font-size: 18px;
-  border: 1px solid #f5c3cb;
+  border: 1px solid #a0c4ff;
+  color: #5c5470;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
 }
 

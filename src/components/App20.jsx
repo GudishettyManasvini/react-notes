@@ -1,3 +1,4 @@
+
 import React from "react";
 import { useState } from "react";
 import App20a from "./App20a";
@@ -8,7 +9,7 @@ export default function App20() {
   const [count, setCount] = useState(0);
   return (
     <div>
-      <h1 style={{ color: "#d86c7a" }}>App20</h1>
+      <h1 style={{ color:"black" }}>App20</h1>
       <h2>useContext hook - sharing variables across components</h2>
       <p>{count}</p>
       <p>

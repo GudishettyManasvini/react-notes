@@ -1,3 +1,4 @@
+
 import React from "react";
 export default function App4() {
   const handleSubmit = () => {
@@ -8,7 +9,7 @@ export default function App4() {
   };
   return (
     <div>
-      <h1 style={{color:'#d86c7a'}}>App4</h1>
+      <h1 style={{color:"black"}}>App4</h1>
       <h2>Event Handling</h2>
       <p>
         <button onClick={handleSubmit}>Submit</button>

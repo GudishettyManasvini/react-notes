@@ -15,7 +15,7 @@ export default function App18() {
   const result = useMemo(() => f1(), [flag]);
   return (
     <div>
-      <h1 style={{ color: "#d86c7a" }}>App18</h1>
+      <h1 style={{ color: "black" }}>App18</h1>
       <h2>useMemo hook</h2>
       <p>
         <button onClick={() => setCount(count + 1)}>Count:{count}</button>

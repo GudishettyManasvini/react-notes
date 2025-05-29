@@ -2,10 +2,7 @@
   font-family: sans-serif;
   padding: 20px;
   text-align: center;
-  
 }
-
-
 
 .score-sec {
   margin-top: 30px;
@@ -14,21 +11,20 @@
   justify-content: center;
   align-items: flex-start;
   gap: 40px; 
-  
 }
 
 .score-box {
-  border: 2px dotted #d86c7a;
-  border-radius: 20px;
+  border: 2px dotted #a0c4ff;
+  border-radius: 40px;
   padding: 20px;
   width: 200px;
-  background: linear-gradient(to right, #f8ede3, #fce1e4);
-  border-radius: 40px;
+  background: linear-gradient(to right, #caffbf, #9bf6ff);
 }
 
 .score-value {
   font-size: 24px;
   margin: 10px 0;
+  color: #5c5470;
 }
 
 .score-button {
@@ -36,14 +32,22 @@
   padding: 10px;
   margin: 5px;
   border-radius: 10px;
+  background-color: #ffd6a5;
+  border: none;
+  color: #333;
   cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.score-button:hover {
+  background-color: #ffadad;
 }
 
 .message-box {
-  border: 2px dotted #d86c7a;
-  border-radius: 20px;
+  border: 2px dotted #a0c4ff;
+  border-radius: 40px;
   padding: 20px;
   min-width: 220px;
-  background: linear-gradient(to right, #f8ede3, #fce1e4);
-  border-radius: 40px;
+  background: linear-gradient(to right, #fdffb6, #bdb2ff);
+  color: #5c5470;
 }

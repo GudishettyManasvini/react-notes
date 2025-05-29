@@ -8,7 +8,7 @@ export default function App8() {
   };
   return (
     <div>
-      <h1 style={{color:'#d86c7a'}}>App8</h1>
+      <h1 style={{color:"black"}}>App8</h1>
       <h2>useState Revision</h2>
       <h3>{count}</h3>
       <p>

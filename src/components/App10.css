@@ -1,6 +1,5 @@
-
 .Container {
-  border: 2px solid #f8ede3;
+  border: 2px solid #a0c4ff;
   padding: 40px;
   width: 400px;
   margin: 20px;
@@ -9,13 +8,25 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 30px;
-  background: linear-gradient(to right, #f8ede3, #fce1e4);
+  background: linear-gradient(to right, #fdffb6, #bdb2ff);
   border-radius: 40px;
 }
 
 .box {
   padding: 10px;
+  color: #5c5470; /* soft readable text */
 }
-.btn{
-    border-radius: 10px;
+
+.btn {
+  border-radius: 10px;
+  background-color: #ffd6a5;
+  border: none;
+  padding: 8px 16px;
+  color: #333;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #ffadad;
 }

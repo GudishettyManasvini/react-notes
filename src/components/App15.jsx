@@ -22,7 +22,7 @@ export default function App15() {
   };
   return (
     <div>
-      <h1 style={{ color: "#d86c7a" }}>App15</h1>
+      <h1 style={{ color:"black" }}>App15</h1>
       <h2>useRef hook - to create uncontrolled component</h2>
       <p>
         <input type="text" placeholder="Enter name" ref={nameRef} />

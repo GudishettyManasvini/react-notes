@@ -20,7 +20,7 @@ export default function App12() {
   }, [count1]);
   return (
     <div>
-      <h1 style={{ color: "#d86c7a" }}>App12</h1>
+      <h1 style={{ color: "black" }}>App12</h1>
       <h2>useEffect - understanding array option</h2>
       {count}
       <p>

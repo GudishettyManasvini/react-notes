@@ -35,7 +35,7 @@ export default function App10() {
 
   return (
     <div>
-      <h1 style={{ color: "#d86c7a" }}>App10</h1>
+      <h1 style={{ color: "black" }}>App10</h1>
 
       <h2>Products</h2>
       <div className="Container">

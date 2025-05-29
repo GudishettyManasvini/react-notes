@@ -1,4 +1,3 @@
-
 import React from "react";
 import { useState } from "react";
 export default function App7() {
@@ -17,7 +16,7 @@ export default function App7() {
   };
   return (
     <div>
-      <h1 style={{color:'#d86c7a'}}>App7</h1>
+      <h1 style={{color:"black"}}>App7</h1>
       <h2>useState with Arrays and Objects</h2>
       <h3>Registration Form</h3>
       <p>
