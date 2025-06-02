@@ -10,7 +10,7 @@ export default function App21() {
 
   return (
     <>
-    <h1 style={{ color: "#d86c7a" }}>App21</h1>
+    <h1 style={{ color:"black" }}>App21</h1>
     <div className="app-container">
       
      

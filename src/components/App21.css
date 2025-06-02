@@ -16,9 +16,9 @@
 .box {
   flex: 1;
   padding: 20px;
-  border: 2px dotted #d86c7a;
+  border: 2px dotted lightcyan;
   border-radius: 10px;
-   background: linear-gradient(to right, #f8ede3, #fce1e4);
+   background: linear-gradient(to right, #fdffb6, #bdb2ff);
 }
 
 .box input {
